@@ -1,5 +1,5 @@
 # Introduction to GitHub
-
+It's nice to meet you 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey TheCourier079!
